@@ -1,0 +1,11 @@
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\bin\Debug\ProgramminCompetitionWFA.exe.config
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\bin\Debug\ProgramminCompetitionWFA.exe
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\bin\Debug\ProgramminCompetitionWFA.pdb
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\obj\Debug\ProgramminCompetitionWFA.csprojResolveAssemblyReference.cache
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\obj\Debug\ProgramminCompetitionWFA.Properties.Resources.resources
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\obj\Debug\ProgramminCompetitionWFA.csproj.GenerateResource.Cache
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\obj\Debug\ProgramminCompetitionWFA.exe
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\obj\Debug\ProgramminCompetitionWFA.pdb
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\obj\Debug\ProgramminCompetitionWFA.Input.resources
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\bin\Debug\ProgramingCompetitionLibrary.dll
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramminCompetitionWFA\bin\Debug\ProgramingCompetitionLibrary.pdb

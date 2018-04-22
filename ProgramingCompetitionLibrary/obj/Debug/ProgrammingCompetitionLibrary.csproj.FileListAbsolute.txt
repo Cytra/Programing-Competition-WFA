@@ -1,0 +1,5 @@
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramingCompetitionLibrary\bin\Debug\ProgramingCompetitionLibrary.dll
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramingCompetitionLibrary\bin\Debug\ProgramingCompetitionLibrary.pdb
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramingCompetitionLibrary\obj\Debug\ProgramingCompetitionLibrary.dll
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramingCompetitionLibrary\obj\Debug\ProgramingCompetitionLibrary.pdb
+C:\Users\bc1729\Desktop\Personal\C Sharp Projects\Programing-Competition-WFA\ProgramingCompetitionLibrary\obj\Debug\ProgrammingCompetitionLibrary.csprojResolveAssemblyReference.cache
